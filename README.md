@@ -1,2 +1,3 @@
-# simple-notepad
-Very simple cappuccin notepad
+## Simple Notepad
+
+Very simple HTML/CSS/JS notepad!
